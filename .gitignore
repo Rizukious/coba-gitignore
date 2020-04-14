@@ -1,0 +1,6 @@
+//tidak menyimpan file config.txt
+config.txt
+//tidak menyimpan folder data
+data/
+//tidak menyimpan semua file .exe
+*.exe
